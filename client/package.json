@@ -14,20 +14,15 @@
     "cookie": "^0.4.1",
     "graphql": "^16.10.0",
     "jsonwebtoken": "^9.0.2",
-    "next": "15.2.4",
+    "next": "^15.3.0",
     "nookies": "^2.5.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "@types/cookie": "0.4.0",
     "@types/node": "^20",
-    "@types/nookies": "^1.1.0",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "@types/set-cookie-parser": "2.4.0",
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
     "tailwindcss": "^4",
